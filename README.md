@@ -1,4 +1,4 @@
-Here’s the README.md code version of the Classic Models Sales Power BI project description you can paste directly into your GitHub repository:
+
 
 # 📊 Classic Model Sales Dashboard | Global Sales Overview
 
@@ -7,7 +7,11 @@ Ever wondered how different product lines perform across global markets? This Po
 
 Built with Power BI, this dashboard transforms raw sales data into a visually compelling narrative that supports decision-making and trend analysis.
 
-📍 View the dashboard here: *[Add Power BI Public/Share link]*
+📍 View the dashboard here: [ClassicModelData](/ClassicModelSalesData.pbix)
+
+![ClassicModel_1](Asset/ClassicModel_1.png)
+
+![ClassicModel_2](Asset/ClassicModel_2.png)
 
 ---
 
