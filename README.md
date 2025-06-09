@@ -88,5 +88,3 @@ This project sharpened my Power BI and data storytelling skills:
 
 ## 🚀 Final Thoughts  
 This dashboard is a robust sales analysis tool that empowers stakeholders to understand historical patterns, uncover sales opportunities, and guide business strategy. Power BI’s flexibility makes it easy to scale this analysis for larger datasets and real-time monitoring.
-
-Let me know if you want a simplified version or if you're planning to convert it into a PDF as well.
